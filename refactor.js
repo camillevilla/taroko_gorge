@@ -1,0 +1,3 @@
+// Challenge: detangle Taroko gorge
+// which is maybe not in the spirit of the poem but...
+// use jQuery
